@@ -1,0 +1,114 @@
+{
+    "frames": {
+        "catFrontWalk_0.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 25,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 25,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 25,
+                "h": 16
+            }
+        },
+        "catFrontWalk_1.png": {
+            "frame": {
+                "x": 71,
+                "y": 0,
+                "w": 25,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 25,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 25,
+                "h": 16
+            }
+        },
+        "catFrontWalk_2.png": {
+            "frame": {
+                "x": 0,
+                "y": 64,
+                "w": 25,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 25,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 25,
+                "h": 16
+            }
+        },
+        "catFrontWalk_3.png": {
+            "frame": {
+                "x": 71,
+                "y": 64,
+                "w": 25,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 25,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 25,
+                "h": 16
+            }
+        },
+        "catFrontWalk_4.png": {
+            "frame": {
+                "x": 0,
+                "y": 128,
+                "w": 25,
+                "h": 16
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 25,
+                "h": 16
+            },
+            "sourceSize": {
+                "w": 25,
+                "h": 16
+            }
+        }
+    },
+    "meta": {
+        "app": "https://github.com/piskelapp/piskel/",
+        "version": "1.0",
+        "image": "catFrontWalk.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 142,
+            "h": 192
+        }
+    }
+}
